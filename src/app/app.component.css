@@ -1,0 +1,14 @@
+body {
+    background-color: silver;
+    height: 800px;
+    margin: 0px;
+    padding-top: 20px;
+    
+}
+
+.userInput {
+    width: 90px;
+    border: none;
+    border-bottom: solid 2px;
+    background-color: silver;
+}
